@@ -1,0 +1,12 @@
+# For more info visit the article https://theawless.github.io/How-to-write-plugins-for-gedit/
+# This file needs to be placed like ~/.local/share/gedit/plugins/example.plugin
+
+[Plugin]
+Loader=python3
+Module=toggle
+IAge=3
+Name=Toggle Content
+Icon=ToggleContent
+Description=This plugin allows you to toggle content of the window, fast and easy.
+Authors= Gaurav Gupta <guptagaurav91@outlook.com>
+Copyright=Copyright © 2017 Gaurav <guptagaurav91@outlook.com>
