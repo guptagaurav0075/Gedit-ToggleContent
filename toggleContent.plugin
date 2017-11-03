@@ -1,4 +1,3 @@
-# For more info visit the article https://theawless.github.io/How-to-write-plugins-for-gedit/
 # This file needs to be placed like ~/.local/share/gedit/plugins/example.plugin
 
 [Plugin]
